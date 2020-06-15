@@ -23,8 +23,9 @@ This software is provided as Freeware:
 
     Evans DW, De Nunzio AM. 2020 Controlled manual loading of body tissues: towards the next generation of pressure algometer.
     
-•	No support and no services are provided. <br>
-•	No warranty is provided, no liability is accepted. <br>
+•	No support or services are provided, although requests and issues can be reported through the GitHub repository. <br>
+•	No warranty is provided. <br>
+•	No liability is accepted. <br>
 
 Please see the license for full terms and conditions of usage; https://github.com/usetheforcegauge/forceguider/blob/master/LICENSE
 
