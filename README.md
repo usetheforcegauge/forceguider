@@ -27,5 +27,5 @@ ForceGuider software is provided as Freeware:
 •	No warranty is provided. <br>
 •	No liability is accepted. <br>
 
-Please see the license for full terms and conditions of usage; https://github.com/usetheforcegauge/forceguider/blob/master/LICENSE
+Please see the license for full terms and conditions of usage: https://github.com/usetheforcegauge/forceguider/blob/master/LICENSE
 
