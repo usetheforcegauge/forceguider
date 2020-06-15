@@ -2,9 +2,9 @@
 
 Guidance software for use with digital force gauges, provided by:
 
-Dr Alessandro Marco De Nunzio
+Dr Alessandro Marco De Nunzio, LUNEX International University of Health, Exercise and Sports, Luxembourg
 
-Dr David William Evans
+Dr David William Evans, University of Birmingham, UK
 
 
 ForceGuider is an application that was built with LabView (TM) systems engineering software, produced by National Instruments (NI), USA. Therefore, before running ForceGuider, the user will need to download and install the following software from NI:
