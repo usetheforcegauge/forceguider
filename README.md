@@ -7,8 +7,10 @@ Dr Alessandro Marco De Nunzio
 Dr David William Evans
 
 
-before using ForceGuider, the user will need to download the following software from National Instruments (NI):
+Before using ForceGuider, the user will need to download the following software from National Instruments (NI):
+<br>
 <a href="https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html">LabView Runtime Engine</a> (Forceguider was built on 2017 version but later versions may also work).
+<br>
 
 
 
