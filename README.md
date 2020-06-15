@@ -7,7 +7,7 @@ Dr Alessandro Marco De Nunzio
 Dr David William Evans
 
 
-ForceGuider was built with LabView (TM), produced by National Instruments (NI), USA. Therefore, before running ForceGuider, the user will need to download the following software from NI:
+ForceGuider is an application that was built with LabView (TM) software, produced by National Instruments (NI), USA. Therefore, before running ForceGuider, the user will need to download and install the following software from NI:
 <br>
 <a href="https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html">LabView Runtime Engine</a> (the current build of ForceGuider will require the '2017 SP1 Patch' version).
 <br>
