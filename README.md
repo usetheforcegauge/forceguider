@@ -7,9 +7,9 @@ Dr Alessandro Marco De Nunzio
 Dr David William Evans
 
 
-Before using ForceGuider, the user will need to download the following software from National Instruments (NI):
+ForceGuider was built with LabView (TM), produced by National Instruments (NI), USA. Therefore, before running ForceGuider, the user will need to download the following software from NI:
 <br>
-<a href="https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html">LabView Runtime Engine</a> (Forceguider was built on 2017 version but later versions may also work).
+<a href="https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html">LabView Runtime Engine</a> (the current build of ForceGuider will require 2017 version).
 <br>
 
 
@@ -28,4 +28,3 @@ ForceGuider software is provided as Freeware:
 •	No liability is accepted. <br>
 
 Please see the license for full terms and conditions of usage: https://github.com/usetheforcegauge/forceguider/blob/master/LICENSE
-
