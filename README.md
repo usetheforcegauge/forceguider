@@ -12,7 +12,7 @@ ForceGuider is an application that was built with LabView (TM) systems engineeri
 <a href="https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html">LabView Runtime Engine</a> (the current build of ForceGuider will require either the '2017 SP1' or '2017 SP1 Patch' version).
 <br>
 
-ForceGuider is designed to collect analogue force data. Therefore, the application assumes that the user will be using a data acquisition device. To ensure compatibility with the Labview Runtime Engine, the authors would recommend a NI data acquisition device. We have so far tested the 16-bit NI USB-6002, which has a USB connection.
+ForceGuider is designed to collect analogue force data. Therefore, the application assumes that the user will be using a data acquisition device. To ensure compatibility with the Labview Runtime Engine, the authors would recommend a NI data acquisition device. We have so far tested the <a href="https://www.ni.com/en-gb/support/model.usb-6002.html">16-bit NI USB-6002</a>, which has a USB connection.
 <br>
 
 
