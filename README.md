@@ -15,6 +15,8 @@ ForceGuider is an application that was built with LabView (TM) systems engineeri
 ForceGuider is designed to collect analogue force data. Therefore, the application assumes that the user will be using a data acquisition device. To ensure compatibility with the Labview Runtime Engine, the authors would recommend a NI data acquisition device. We have so far tested the <a href="https://www.ni.com/en-gb/support/model.usb-6002.html">16-bit NI USB-6002</a>, which has a USB connection to the desktop computer.
 <br>
 
+The data acquisition device will allow other inputs, such as a trigger button or an electronic visual analogue scale (eVAS), to be integrated into ForceGuider in addition to the force gauge signal. Each of these inputs will need to be connected onto its own pair of terminals on the data acquisition device. The force gauge will have it's own power source, but other devices may require a power source, such as the 5V available from the data acquisition device.
+
 
 ForceGuider software is provided as Freeware:
 
