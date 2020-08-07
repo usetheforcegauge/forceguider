@@ -24,7 +24,7 @@ ForceGuider software is provided as Freeware:
 •	The authors retain copyright and ownership of all copies of the software. <br>
 •	Usage of this software is conditional upon inclusion of the following citation on any website, datafile, report or publication that results from its use:
 
-    Evans DW, De Nunzio AM. 2020 Controlled manual loading of body tissues: towards the next generation of pressure algometer.
+    Evans DW, De Nunzio AM. 2020 Controlled manual loading of body tissues: towards the next generation of pressure algometer Journal: Chiropractic & Manual Therapies. DOI: 10.1186/s12998-020-00340-7
     
 •	No support or services are provided, although issues and requests can be reported through the <a href="https://github.com/usetheforcegauge/forceguider/issues">Issues</a> area in the GitHub repository. <br>
 •	No warranty is provided. <br>
