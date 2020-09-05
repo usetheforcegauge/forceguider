@@ -27,7 +27,17 @@ ForceGuider software is provided as Freeware:
     Evans DW, De Nunzio AM. 2020 Controlled manual loading of body tissues: towards the next generation of pressure algometer Journal: Chiropractic & Manual Therapies. DOI: 10.1186/s12998-020-00340-7
     
 •	No support or services are promised or provided, although issues and requests can be reported through the <a href="https://github.com/usetheforcegauge/forceguider/issues">Issues</a> area in the GitHub repository. <br>
-•	No warranty is provided. <br>
-•	No liability is accepted. <br>
+
+ Copyright (c) 2020, Dr Alessandro Marco De Nunzio & Dr David William Evans. All rights reserved.
+ 
+ Redistribution and use is permitted provided that the following conditions are met:
+ 
+ 1.  Redistributions must retain the above copyright notice, this list of conditions and the following disclaimer.
+ 
+ 2.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ 
+ 3.  Neither the name of the copyright holder(s) nor the names of any contributors may be used to endorse or promote products derived from this software without specific prior written permission. No license is granted to the trademarks of the copyright holders even if such marks are included in this software.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER(S) OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Please see the <a href="https://github.com/usetheforcegauge/forceguider/blob/master/LICENSE">license</a> for full terms and conditions of usage.
